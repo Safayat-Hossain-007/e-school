@@ -1,0 +1,32 @@
+.logo{
+    width: 198.07px;
+    height: 59px;
+    
+}
+ .nav-item .sign{
+    width:104px;
+    height: 43px;
+    padding: 12px 28px;
+    border-radius: 80%;
+}
+.nav{
+    font-weight: bold;
+}
+.img{
+    width: 554px;
+    height: 346px;
+}
+.button{
+    border: 1px solid  #21B573;
+    background-color: #21B573;
+    border-radius: 20px;
+    padding: 12px 36px;
+    color: white;
+
+}
+.card h-100{
+    padding: 250px 100px;
+}
+.img-container{
+    margin-right: 10px;
+}
